@@ -1,5 +1,5 @@
 {
-    "name": "jn2/adminactionslogext",
+    "name": "genesisoft/adminactionslogext",
     "description": "Admin Actions Log Extension",
     "require": {
         "amasty/adminactionslog": "1.1.*"
@@ -13,7 +13,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "Jn2\\AdminActionsLogExt\\": ""
+            "Genesisoft\\AdminActionsLogExt\\": ""
         }
     }
 }
